@@ -8,7 +8,6 @@ Il faut expliquer le choix des méthodes
 
 QUESTONS :
 
-* Gaussianisation --> axes d'amélioration? (appliquer fct mais attention quand on l'interprete!)
-
+* Gaussianisation --> axes d'amélioration? (appliquer fct )
 
 

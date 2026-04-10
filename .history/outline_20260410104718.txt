@@ -1,23 +1,23 @@
-INTRO : INES
+INTRO : 
 * Base de données : indiv, var, thème général
 * Besoin : Comment maximiser le temps d'utilisation de Spotify ? 
 * Répondre au besoin : Recommandation de chansons, compréhension des tendences temporelles, détection de facteurs de succès
 
-PARTIE 1 : Exploration des données
+Exploration des données
 * Nettoyage des données - INES
 * Affichage données par var : box plots, histogrames (ANALYSE UNI) -JU
 * Corrélation entre les variables : PCA graphe flèches, Matrice Corrélation... (ANALYSE BI) -JU
-* facultatif (Classification entre les individus : PCA graphe ind, clustering géneral)
+* <fQClassification entre les individus : PCA graphe ind, clustering géneral -
 
 
-PARTIE 2 : Analyse des tendences (TEMPS)
+PARTIE 1 : Analyse des tendences (TEMPS)
 * UNI : var au cours du temps - VAL
 * BI : popularité par genre au cours du temps - VAL
 --> proportion playlists selon les tendences actuelles (genres plus présents, caractéristiques en augmentation)
 --> intégration de nouvelles chansons en cohérence avec les tendences
 
 
-PARTIE 3 : Analyse des genres
+PARTIE 2 : Analyse des genres
 * PCA non concluante -VAL
 * MFA : intuition ressemblance entre les genres -VAL
 * (Détéction musiques alternatives)
@@ -26,13 +26,13 @@ PARTIE 3 : Analyse des genres
 --> Ouverture musicale vers d'autres genres selon les ressemblances entre genres
 
 
-PARTIE 4 : Analyse des facteurs de succès
+PARTIE 3 : Analyse des facteurs de succès
 * analyse corrélation variables-popularité (10%) - INES
 * influence du titre - INES
 * mfa avec popularité?
 
 
-PARTIE 5 : Création de playlists
+PARTIE 4 : Création de playlists
 * Recommandations à partir de chansons - INES
 * Les playlists par genre suffisent-elles pour faires des recommandations? - VAL
     * Matrice de Corrélation (clusters vs genre)
@@ -40,6 +40,6 @@ PARTIE 5 : Création de playlists
 --> Rapport d'importance : genre vs caractéristiques
     
 
-CONCLUSION -VAL
+CONCLUSION
 
 

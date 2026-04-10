@@ -32,7 +32,7 @@ PARTIE 4 : Analyse des facteurs de succès
 * mfa avec popularité?
 
 
-PARTIE 5 : Création de playlists
+PARTIE 4 : Création de playlists
 * Recommandations à partir de chansons - INES
 * Les playlists par genre suffisent-elles pour faires des recommandations? - VAL
     * Matrice de Corrélation (clusters vs genre)

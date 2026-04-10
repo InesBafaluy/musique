@@ -11,4 +11,3 @@ QUESTONS :
 * Gaussianisation --> axes d'amélioration? (appliquer fct mais attention quand on l'interprete!)
 
 
-

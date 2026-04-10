@@ -5,10 +5,3 @@ Il faut expliquer le choix des méthodes
 * d'après les caractéristiques des données
 * et explications avec des références mathématiques
 
-
-QUESTONS :
-
-* Gaussianisation --> axes d'amélioration? (appliquer fct mais attention quand on l'interprete!)
-
-
-
