@@ -1,0 +1,35 @@
+INTRO : 
+* Base de données : indiv, var, thème général
+* Besoin : Comment maximiser le temps d'utilisation de Spotify ? 
+* Répondre au besoin : Recommandation de chansons, compréhension des tendences temporelles, détection de facteurs de succès
+
+PARTIE 1 : Exploration des données
+* Nettoyage des données
+* Affichage données par var : box plots, histogrames (ANALYSE UNI)
+* Corrélation entre les variables : PCA graphe flèches, Matrice Corrélation... (ANALYSE BI)
+* Classification entre les individus : PCA graphe ind, clustering géneral
+
+
+PARTIE : Création de playlists ? : 
+* Comments on 
+
+* Les playlists par genre suffisent-elles pour faires des recommandations? 
+    --> Rapport d'importance : genre vs caractéristiques
+    * Matrice de Corrélation (clusters vs genre)
+
+* Playlists dans les genres : 
+
+
+
+PARTIE 2 : Analyse des tendances temporelles
+* Évolution des var au cours du temps
+
+
+PARTIE 3 : Analyse par genres
+
+1. Prédiction du genre
+    * PCA non concluante
+    * MFA : intuition ressemblance entre les genres
+
+2. 
+

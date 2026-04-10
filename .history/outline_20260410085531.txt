@@ -1,0 +1,13 @@
+INTRO : 
+* Base de données : indiv, var, thème général
+* Besoin : Comment maximiser le temps d'utilisation de Spotify ? 
+* Répondre au besoin : Recommandation de chansons, compréhension des tendences temporelles, détection de facteurs de succès
+
+PARTIE 1 : Exploration des données
+* Nettoyage des données
+* Corrélation entre les variables
+* Analyse uni
+* Analyse bidimensionnelle : Matrice Corrélation, 
+* Corrélation : PCA
+
+PARTIE 2 : 
