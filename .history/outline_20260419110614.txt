@@ -4,7 +4,7 @@ INTRO : INES ✅
 * Répondre au besoin : Recommandation de chansons, compréhension des tendences temporelles, détection de facteurs de succès
 
 PARTIE 1 : Exploration des données
-* Base de données - INES ✅
+* Nettoyage des données - INES ✅
 * Affichage données par var : box plots, histogrames (ANALYSE UNI) -JU
 * Corrélation entre les variables : PCA graphe flèches, Matrice Corrélation... (ANALYSE BI) -JU
 * facultatif (Classification entre les individus : PCA graphe ind, clustering géneral)
