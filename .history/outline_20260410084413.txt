@@ -1,0 +1,8 @@
+INTRO : 
+* Base de données
+* Besoin
+* Organisation
+
+PARTIE 1 : Exploration des données
+* Nettoyage des données
+* 

@@ -1,0 +1,3 @@
+choix des méthodes 
+* d'après les caractéristiques des données
+* et explications avec des références mathématiques

@@ -1,0 +1,11 @@
+INTRO : 
+* Base de données : indiv, var, thème général
+* Besoin : Comment maximiser le temps d'utilisation de Spotify
+* Organisation
+
+PARTIE 1 : Exploration des données
+* Nettoyage des données
+* Analyse uni
+* Analyse bidimensionnelle
+
+PARTIE 2 : 
