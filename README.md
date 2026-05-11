@@ -18,7 +18,3 @@ Il s’agit du rapport final. Il contient l’ensemble du travail abouti : les c
 ## Objectif du projet
 
 L’objectif était d’explorer et d’analyser des données musicales issues de Spotify afin d’identifier des tendances, visualiser certaines relations entre variables, tester différentes approches d’analyse et interpréter les résultats obtenus.
-
-## Remarque
-
-Pour comprendre le travail final, il suffit principalement de consulter le notebook `rapport_spotify.ipynb`. Les autres fichiers correspondent surtout aux étapes intermédiaires, aux tests et aux explorations menées pendant le projet.
