@@ -1,45 +1,54 @@
-INTRO : INES ✅
-* Base de données : indiv, var, thème général
-* Besoin : Comment maximiser le temps d'utilisation de Spotify ? 
-* Répondre au besoin : Recommandation de chansons, compréhension des tendences temporelles, détection de facteurs de succès
-
-PARTIE 1 : Exploration des données
-* Base de données - INES ✅
-* Affichage données par var : box plots, histogrames (ANALYSE UNI) -JU
-* Corrélation entre les variables : PCA graphe flèches, Matrice Corrélation... (ANALYSE BI) -JU
-* facultatif (Classification entre les individus : PCA graphe ind, clustering géneral)
-
-
-PARTIE 2 : Analyse des tendences (TEMPS)
-* UNI : var au cours du temps - VAL
-* BI : popularité par genre au cours du temps - VAL
---> proportion playlists selon les tendences actuelles (genres plus présents, caractéristiques en augmentation)
---> intégration de nouvelles chansons en cohérence avec les tendences
+### Introduction (Ines)
+## Sommaire
+### Ⅰ. Exploration des données
+*   **Contextualisation**   (Ines)                               
+    *   Source des données & Structure de la base ()
+    *   Description des variables principales & Intérêt de la base ()
+*   **1. Base de données** (Ines)
+    *   *a) Aperçu des données brutes* (Quantitatives & Qualitatives)
+    *   *b) Prétraitement des données :* Nettoyage, Gaussianisation, Outliers, Normalisation
+*   **2. Analyse unidimensionnelle des variables** (Ju)
+    *   *a) Distributions des variables quantitatives* (Indicateurs & Musiques connues)
+    *   *b) Analyse des variables qualitatives*
+*   **3. Analyse bidimensionnelle** (Ju)
+    *   *a) Analyse des corrélations*
+    *   *b) Analyse de la popularité par genre et sous-genre*
 
 
-PARTIE 3 : Analyse des genres
-* PCA non concluante -VAL
-* MFA : intuition ressemblance entre les genres -VAL
-* (Détéction musiques alternatives)
-* Étude des sous genres - JU
---> Pertinence des playlists?
---> Ouverture musicale vers d'autres genres selon les ressemblances entre genres
+### Ⅱ. Analyse des tendances (TEMPS) (Val)
+*   **1. Évolution des caractéristiques audio au fil du temps**
+    *   La "Loudness War" et l'évolution de l'énergie
+    *   L'effondrement de l'acoustique : vers un son 100 % numérique ?
+    *   La musique devient-elle plus sombre ?
+*   **2. Représentativité et popularité des genres au cours du temps**
 
+### Ⅲ. Analyse des genres 
+*   **1. PCA et LDA des genres** (Val)
+*   **2. MFA : ressemblances entre les genres** (Val)
+*   **3. Analyse des sous-genres** 
+    *   Étude de la popularité des sous-genres (Val) + transition
+    *   Corrélations variables musicales / popularité (Ju)
+    *   Réalisation d'une ACP sur les sous-genres (Ju)
+    *   Analyse de la popularité en fonction du score -(PC1 + PC2) (Ju)
+    *   *Conclusion sur l'étude des sous-genres* (Ju)
 
-PARTIE 4 : Analyse des facteurs de succès
-* analyse corrélation variables-popularité (10%) - INES
-* influence du titre - INES
-* mfa avec popularité?
+### Ⅳ. Analyse des facteurs de succès (Ines)
+*   **1. Variables audio et style** (Quantitatives & Qualitatives)
+*   **2. Le titre**
+    *   Jeu de données titre & Corrélations
+    *   Comparaison avec le 10% plus populaire
+*   **3. Les artistes**
+    *   Jeu de données artiste
+    *   Popularité artiste-chanson
+    *   Corrélation : popularité moyenne et artiste
 
+### Ⅴ. Création de playlists
+*   **1. Playlists créées avec PCA et Kmeans** (Ju)
+*   **2. Playlists créées avec MFA et Classification Hiérarchique Ascendante** (Ju)
+*   **3. Playlists créées avec MFA et Modèle de mélange Gaussien** (Ju)
+*   **4. Playlists créées en prenant en compte les genres** (Ju)
+*   **5. Playlists créées par NMF** (Val)
 
-PARTIE 5 : Création de playlists
-* Recommandations à partir de chansons - INES
-* Les playlists par genre suffisent-elles pour faires des recommandations? - VAL
-    * Matrice de Corrélation (clusters vs genre)
-* Création de playlists - JU
---> Rapport d'importance : genre vs caractéristiques
-    
-
-CONCLUSION -VAL
+### ⅤⅠ. CONCLUSION (Val)
 
 
